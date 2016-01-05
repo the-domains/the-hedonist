@@ -1,14 +1,29 @@
+name: The Hedonist
+favicon: null
 layout_spectrum: 0.9157706
+typography_spectrum: 0.3082437
+title: The Hedonist
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8799283
-  brandStrength: 0.3870968
-  lightness: 0.0358423
   brandColors:
     - '#1E0E06'
     - '#F3FFFF'
     - '#912805'
     - '#5C655C'
     - '#F2FF04'
+  brandStrength: 0.3870968
+  lightness: 0.0358423
+  saturation: 0.8799283
   rhythmicContrast: 0.7240143
-typography_spectrum: 0.3082437
-name: The Hedonist
+purpose: []
