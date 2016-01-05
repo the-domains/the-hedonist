@@ -1,0 +1,14 @@
+layout_spectrum: 0.9157706
+typography_spectrum: 0.3082437
+color:
+  saturation: 0.8799283
+  lightness: 0.1469534
+  brandStrength: 0.3870968
+  brandColors:
+    - '#1E0E06'
+    - '#F3FFFF'
+    - '#912805'
+    - '#5C655C'
+    - '#F2FF04'
+  rhythmicContrast: 1
+name: The Hedonist
