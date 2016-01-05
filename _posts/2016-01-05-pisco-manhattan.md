@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Tired of the usual Manhattan? Try this Peruvian twist on an American classic.
-datePublished: '2016-01-05T07:59:47.495Z'
-dateModified: '2016-01-05T07:59:37.350Z'
+datePublished: '2016-01-05T08:00:17.773Z'
+dateModified: '2016-01-05T08:00:15.703Z'
 title: Pisco Manhattan
 author: []
 authors: []
