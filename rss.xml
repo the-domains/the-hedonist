@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Hedonist]]></title>
         <description><![CDATA[The Hedonist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-hedonist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 07:59:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 08:00:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-hedonist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pisco Manhattan]]></title>
             <description><![CDATA[<article><h1>Pisco Manhattan</h1><p>It's a brilliant idea. Remake classic cocktails like the Manhattan with pisco as the base spirit instead of whiskey. The first time I was introduced to this concept I was drinking in New York's amazing Peruvian restaurant / pisco bar, Raymi. They've got the best pisco collection I've seen anywhere outside of Peru. The head bartender introduced me to a Pisco Negroni, which turned out to be the best version of a Negroni I've ever had. If this pisco twist on the manhattan is half as good as the Negroni, then we're in for a treat. </p></article>]]></description>
-            <link>undefinedpisco-manhattan/index.html</link>
+            <link>https://thegrid.ai/the-hedonist/pisco-manhattan/index.html</link>
             <guid isPermaLink="false">bcda3d8d-68a2-42de-9e14-09a890d94e44</guid>
-            <pubDate>Tue, 05 Jan 2016 07:59:47 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 08:00:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
